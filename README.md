@@ -7,3 +7,5 @@ Toda a personalização fica em `src/data/studioData.js`.
 - `npm install`
 - `npm run dev` para testar
 - `npm run build` para gerar a versão de publicação
+
+Demo: https://studio-rose-sousa-joao-pessoa.vercel.app
